@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Micholex17
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#, Lua, Python and JavaScript
+- 🌱 I’m currently learning C#, C++, Lua, Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Discord through my server (PL)
 
