@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Micholex17
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#, C++, Lua, Python and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Discord through my server (PL)
+- 💞️ I’m looking to collaborate on my Unity C# game
+- 📫 How to reach me - Discord
 
 <!---
 Micholex17/Micholex17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
