@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Micholex17
-- 👀 I’m interested in: programming, gaming
+- 👀 I’m interested in: programming, gaming, game development
 - 🌱 I’m currently learning: C#, C++, Lua, Python and JavaScript
 - 💞️ I’m looking to collaborate on my Unity game and Discord bot
 - 📫 How to reach me: [Discord](https://discord.gg/FestWc3Gp3)
