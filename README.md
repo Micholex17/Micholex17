@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: C#, C++, C, Lua, Python, Java and JavaScript
 - 💞️ I’m looking to collaborate on my Unity game and Discord bot
 - 📫 How to reach me: [Discord](https://discord.gg/FestWc3Gp3)
-- 🖥️ Currently working on: Discord Bot **[Done]**, Unity Game **[Currently Working On]**
+- 🖥️ Currently working on: Discord Bot **[Done]**, Unity Game **[Currently Working On]**, HTML Clicker **[Done]**
 
 <!---
 Micholex17/Micholex17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
