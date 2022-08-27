@@ -2,7 +2,7 @@
 - 👀 I’m interested in: programming, gaming, game development, video making and streaming
 - 🌱 I’m currently learning: C#, C++, C, Lua, Python, Java and JavaScript
 - 💞️ I’m looking to collaborate on my Unity game and Discord bot
-- 📫 How to reach me: [Discord](https://discord.gg/FestWc3Gp3)
+- 📫 How to reach me: No Way
 - 🖥️ Currently working on:
 
 | Name | Progress |
