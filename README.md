@@ -7,7 +7,7 @@
 
 | Name | Progress |
 | --- | --- |
-| Discord Bot | ~50% |
+| Discord Bot | ~50% (Currently Dropped) |
 | Unity Game | ?% |
 | HTML Clicker | Done |
 | HTML RPG | Just Started |
