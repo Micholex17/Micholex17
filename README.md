@@ -15,6 +15,7 @@
 ###### In-Dev: currently worked on
 ###### On Hold: not updated, but not discontinued
 ###### Dropped: discontinued
+###### Completed: (obvious)
 ###### Planned: (obvious)
 
 <!---
