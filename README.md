@@ -7,11 +7,12 @@
 
 | Name | Progress |
 | --- | --- |
-| Discord Bot | ~50% (On Hold) |
-| Unity Game | ?% (On Hold) |
+| Discord Bot | On Hold |
+| Unity Game | On Hold |
 | HTML Clicker | Completed |
-| HTML RPG | Just Started |
+| HTML RPG | In-Dev |
 
+###### In-Dev: currently worked on
 ###### On Hold: not updated, but not discontinued
 ###### Dropped: discontinued
 ###### Planned: (obvious)
