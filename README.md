@@ -7,8 +7,8 @@
 
 | Name | Progress |
 | --- | --- |
-| Discord Bot | ~50% (On-Hold) |
-| Unity Game | ?% (On-Hold) |
+| Discord Bot | ~50% (On Hold) |
+| Unity Game | ?% (On Hold) |
 | HTML Clicker | Done |
 | HTML RPG | Just Started |
 
