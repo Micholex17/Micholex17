@@ -10,6 +10,7 @@
 | Discord Bot | ~50% |
 | Unity Game | ?% |
 | HTML Clicker | Done |
+| HTML RPG | Just Started |
 
 <!---
 Micholex17/Micholex17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
