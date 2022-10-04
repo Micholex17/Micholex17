@@ -9,7 +9,7 @@
 | --- | --- |
 | Discord Bot | ~50% (On Hold) |
 | Unity Game | ?% (On Hold) |
-| HTML Clicker | Done |
+| HTML Clicker | Completed |
 | HTML RPG | Just Started |
 
 ###### On Hold: not updated, but not discontinued
