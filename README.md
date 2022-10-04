@@ -13,7 +13,7 @@
 | HTML RPG | Just Started |
 
 ###### Dropped: discontinued
-###### On Hold: Not updated, but not discontinued
+###### On Hold: not updated, but not discontinued
 
 <!---
 Micholex17/Micholex17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
