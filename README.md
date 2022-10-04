@@ -13,9 +13,9 @@
 | HTML RPG | In-Dev |
 
 ###### In-Dev: currently worked on
+###### Completed: (obvious)
 ###### On Hold: not updated, but not discontinued
 ###### Dropped: discontinued
-###### Completed: (obvious)
 ###### Planned: (obvious)
 
 <!---
