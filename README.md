@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Micholex17
 - 👀 I’m interested in: programming, gaming, game development, modelling, video making and streaming
 - 🌱 I’m currently learning: C#, C++, Lua, Python, Java and JavaScript
-- 💞️ I’m looking to collaborate on my Unity game and Discord bot
+- 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me: No Way
 - 🖥️ Currently working on:
 
