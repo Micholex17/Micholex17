@@ -10,7 +10,7 @@
 | Discord Bot | On Hold |
 | Unity Game | On Hold |
 | HTML Clicker | Completed |
-| HTML RPG | In-Dev |
+| HTML RPG | On Hold |
 | Minecraft Mod | In-Dev |
 
 ###### In-Dev: currently worked on
