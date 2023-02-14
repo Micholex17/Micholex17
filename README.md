@@ -7,11 +7,11 @@
 
 | Name | Progress |
 | --- | --- |
-| Discord Bot | On Hold |
+| Discord Bot | In-Dev |
 | Unity Game | On Hold |
 | HTML Clicker | Completed |
 | HTML RPG | On Hold |
-| Minecraft Mod | In-Dev |
+| Minecraft Mod | On Hold |
 
 ###### In-Dev: currently worked on
 ###### Completed: (obvious)
