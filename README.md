@@ -7,6 +7,7 @@
 
 | Name | Progress |
 | --- | --- |
+| Website | Planned |
 | Discord Bot | On Hold |
 | Unity Game | On Hold |
 | HTML Clicker | Completed (Abandoned) |
