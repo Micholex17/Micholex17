@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: C#, C++, Lua, Python, Java and JavaScript
 - 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me: No Way
-- 🖥️ Currently working on:
+- 🖥️ Currently projects:
 
 | Name | Status |
 | --- | --- |
