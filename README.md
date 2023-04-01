@@ -9,7 +9,7 @@
 | --- | --- |
 | Discord Bot | On Hold |
 | Unity Game | On Hold |
-| HTML Clicker | Completed |
+| HTML Clicker | Completed (Abandoned) |
 | HTML Clicker v2 | In-Dev |
 | HTML RPG | On Hold |
 | Minecraft Mod | On Hold |
