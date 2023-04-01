@@ -5,7 +5,7 @@
 - 📫 How to reach me: No Way
 - 🖥️ Currently working on:
 
-| Name | Progress |
+| Name | Status |
 | --- | --- |
 | Website | Planned |
 | Discord Bot | On Hold |
