@@ -7,7 +7,7 @@ some stupid dude making the worst code u have probably ever seen
 | Website | Planned |
 | Discord Bot | On Hold |
 | Unity Game | On Hold |
-| HTML Clicker | Completed (Abandoned) |
+| HTML Clicker | Completed/Dropped |
 | HTML Clicker v2 | In-Dev |
 | HTML RPG | On Hold |
 | Minecraft Mod | On Hold |
