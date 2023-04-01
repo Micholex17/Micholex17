@@ -1,6 +1,7 @@
 some stupid dude
 
-Current projects:
+# Current projects:
+
 | Name | Status |
 | --- | --- |
 | Website | Planned |
