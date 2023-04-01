@@ -1,4 +1,4 @@
-some stupid dude
+some stupid dude make worst code u probably ever seen
 
 # Current projects:
 
