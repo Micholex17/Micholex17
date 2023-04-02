@@ -4,7 +4,7 @@ some stupid dude making the worst code u have probably ever seen
 
 | Name | Status |
 | --- | --- |
-| Website | Planned |
+| Website | In-Dev |
 | Discord Bot | On Hold |
 | Unity Game | On Hold |
 | HTML Clicker | Completed/Dropped |
