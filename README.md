@@ -4,11 +4,11 @@ some stupid dude making the worst code u have probably ever seen
 
 | Name | Status |
 | --- | --- |
-| Website | In-Dev |
+| Website | Completed |
 | Discord Bot | On Hold |
 | Unity Game | On Hold |
 | HTML Clicker | Completed/Dropped |
-| HTML Clicker v2 | In-Dev |
+| HTML Clicker v2 | Completed |
 | HTML RPG | On Hold |
 | Minecraft Mod | On Hold |
 
