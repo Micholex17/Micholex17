@@ -11,7 +11,7 @@ https://micholex17.github.io/
 | Unity Game | On Hold |
 | HTML Clicker | Completed/Dropped |
 | HTML Clicker v2 | Completed |
-| HTML RPG | On Hold |
+| HTML RPG | Dropped |
 | Minecraft Mod | On Hold |
 
 ###### In-Dev: currently worked on
